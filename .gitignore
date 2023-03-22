@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.env
 interested_company_names.txt
 indices
 forms
